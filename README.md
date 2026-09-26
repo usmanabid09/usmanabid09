@@ -33,3 +33,12 @@ Networking:         WebSockets, TCP Sockets, Ktor Client, Retrofit, OkHttp
 Data & Storage:     Room (KMP SQLite), DataStore, Offline-First Caching
 DI & Tooling:       Hilt, Koin, Gradle Convention Plugins (build-logic), JFrog Artifactory, CI/CD
 AI Engineering:     Agentic Workflows, LLM Systems Integration, Developer Productivity Tooling
+```
+---
+
+### Connect with me
+```text
+LinkedIn: linkedin.com/in/usmanabid09
+Email: usmanabid1221@gmail.com
+```
+
